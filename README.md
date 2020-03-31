@@ -61,7 +61,7 @@ xcode-select --install
 Run this:
 
 ```sh
-sh -c "`curl -fsSL https://raw.githubusercontent.com/yannbf/dotfiles/master/start.sh `"
+sh -c "`curl -fsSL https://raw.githubusercontent.com/mobregozo/dotfiles/master/start.sh `"
 ```
 
 This will symlink the appropriate files in `.dotfiles` to your home directory.
@@ -85,5 +85,4 @@ ps: To better understand the flow of the scripts, check `script/bootstrap`, `scr
 
 ## Thanks
 
-I forked [Zach Holman](http://github.com/holman)'s excellent
-[dotfiles](http://github.com/holman/dotfiles) and customized it for my own needs.
+I forked [Yann Braga](http://github.com/yannbf)'s excellent [dotfiles](https://github.com/yannbf/dotfiles) and customized it for my own needs.
