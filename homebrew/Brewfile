@@ -29,6 +29,7 @@ cask "spotify"
 cask "figma"
 cask "evernote"
 cask "whatsapp"
+cask "zeplin"
 
 # install brew formulae
 brew "ack"
