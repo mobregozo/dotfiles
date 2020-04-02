@@ -28,6 +28,7 @@ cask "firefox"
 cask "spotify"
 cask "figma"
 cask "evernote"
+cask "whatsapp"
 
 # install brew formulae
 brew "ack"
